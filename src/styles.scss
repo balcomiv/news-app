@@ -1,1 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
+
+// Note: ng add @angular/material sets these (below) for you. They are in index.html and the angular.json file
+// @import '~@angular/material/prebuilt-themes/indigo-pink.css';
+// @import url('//fonts.googleapis.com/icon?family=Material+Icons');
+// @import url('href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700,400italic');
+
+body {
+    padding: 0 15em;
+    background:lightgray;
+    min-width: 350px;
+}

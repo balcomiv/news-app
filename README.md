@@ -31,3 +31,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 https://newsapi.org/
 d13283d9889e4927a5f995772fc7d68f
 http://billpatrianakos.me/blog/2016/02/15/securing-api-keys-in-a-javascript-single-page-app/
+
+
+## Helpful Material Links
+https://www.smashingmagazine.com/2018/10/news-application-with-angular-and-material-design/
+https://medium.com/@ismapro/first-steps-with-angular-cli-and-angular-material-5a90406e9a4
